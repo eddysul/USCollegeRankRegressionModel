@@ -1,4 +1,4 @@
-# uscollege
+# USCollege Regression Model
 
 Implemented python libraries to perform extensive data analysis on Forbes’ 2019 US College ranking dataset.
 
